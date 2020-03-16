@@ -1,0 +1,4 @@
+c04fb28d259110a3f45b3894b11dab93  qb-tracker-update-bulk.amd64
+1c5aaf2060a51f2482ce182c95a0f62c  qb-tracker-update-bulk.amd64.darwin
+cffb4f7c9011ce804b5011ea4ebcaf59  qb-tracker-update-bulk.amd64.exe
+b4c6304ea761c784b01e023627e97883  qb-tracker-update-bulk.arm64
